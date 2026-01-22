@@ -124,11 +124,52 @@ This solution automates the entire workflow.
 
 
 
-1\. Clone the repository
+### 1\. Clone the repository
 
 ```bash
 
 git clone https://github.com/yourusername/ai-email-document-automation.git
+```
+
+---
+
+### 2\. Install dependencies
+
+```bash
+Install dependencies
+```
+
+---
+
+### 3\. Create a .env file with required credentials
+
+### 4\. Run the application
+
+```bash
+python main.py
+```
+
+---
+
+### 4\. Optional: Run with Docker
+
+```bash
+docker build -t email-automation .
+docker run email-automation
+```
+
+---
+
+👩‍💻 Author
+
+Eng. Khadija Bouadi
 
 
+📧 Contact
+
+For any queries, reach out to:
+
+GitHub: @khadibd
+
+Email:  khadijabouadi00@gmail.com 
 
