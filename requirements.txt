@@ -1,0 +1,9 @@
+easyocr
+pillow
+pdf2image
+imapclient
+pyzmail36
+python-dotenv
+openai
+pandas
+openpyxl
