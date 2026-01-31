@@ -1,8 +1,8 @@
-\# AI Email \& Document Automation System
+# AI Email & Document Automation System
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
@@ -14,11 +14,11 @@ It eliminates manual work by automatically:
 
 \- Reading incoming emails
 
-\- Detecting relevant documents
+- Detecting relevant documents
 
-\- Extracting key business information
+- Extracting key business information
 
-\- Organizing results into structured outputs
+- Organizing results into structured outputs
 
 
 
@@ -30,7 +30,7 @@ The goal is to save time, reduce errors, and streamline back-office operations.
 
 
 
-\## 💼 Business Problem
+## 💼 Business Problem
 
 
 
@@ -38,13 +38,13 @@ Many businesses receive invoices and documents by email and process them manuall
 
 This leads to:
 
-\- Time loss
+- Time loss
 
-\- Human errors
+- Human errors
 
-\- Poor data organization
+- Poor data organization
 
-\- Scaling issues
+- Scaling issues
 
 
 
@@ -56,43 +56,23 @@ This solution automates the entire workflow.
 
 
 
-\## ✅ What the Solution Does
+## ✅ What the Solution Does
 
 
 
-\- Automatically monitors incoming emails
+- Automatically monitors incoming emails
 
-\- Filters relevant documents
+- Filters relevant documents
 
-\- Processes invoices and receipts
+- Processes invoices and receipts
 
-\- Extracts key fields (amount, date, invoice number, etc.)
+- Extracts key fields (amount, date, invoice number, etc.)
 
-\- Stores results in Excel and a database
+- Stores results in Excel and a database
 
-\- Sends automatic confirmation emails
+- Sends automatic confirmation emails
 
-\- Runs continuously without manual intervention
-
-
-
----
-
-
-
-\## 📊 Output
-
-
-
-\- Structured Excel file
-
-\- Organized database records
-
-\- JSON results for each document
-
-\- Automatic email replies
-
-\- Full processing logs
+- Runs continuously without manual intervention
 
 
 
@@ -100,19 +80,18 @@ This solution automates the entire workflow.
 
 
 
-\## 🚀 Key Benefits
+## 📊 Output
 
 
+- Structured Excel file
 
-\- Saves hours of manual work
+- Organized database records
 
-\- Reduces operational costs
+- JSON results for each document
 
-\- Improves data accuracy
+- Automatic email replies
 
-\- Scales easily with business growth
-
-\- Fully customizable to different workflows
+- Full processing logs
 
 
 
@@ -120,11 +99,31 @@ This solution automates the entire workflow.
 
 
 
-\## 🛠️ How to Run (Local)
+## 🚀 Key Benefits
 
 
 
-### 1\. Clone the repository
+- Saves hours of manual work
+
+- Reduces operational costs
+
+- Improves data accuracy
+
+- Scales easily with business growth
+
+- Fully customizable to different workflows
+
+
+
+---
+
+
+
+## 🛠️ How to Run (Local)
+
+
+
+### 1. Clone the repository
 
 ```bash
 
@@ -133,7 +132,7 @@ git clone https://github.com/yourusername/ai-email-document-automation.git
 
 ---
 
-### 2\. Install dependencies
+### 2. Install dependencies
 
 ```bash
 Install dependencies
@@ -141,9 +140,9 @@ Install dependencies
 
 ---
 
-### 3\. Create a .env file with required credentials
+### 3. Create a .env file with required credentials
 
-### 4\. Run the application
+### 4. Run the application
 
 ```bash
 python main.py
@@ -151,7 +150,7 @@ python main.py
 
 ---
 
-### 4\. Optional: Run with Docker
+### 5. Optional: Run with Docker
 
 ```bash
 docker build -t email-automation .
@@ -160,12 +159,12 @@ docker run email-automation
 
 ---
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Eng. Khadija Bouadi
 
 
-📧 Contact
+### 📧 Contact
 
 For any queries, reach out to:
 
